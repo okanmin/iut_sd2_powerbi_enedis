@@ -1,5 +1,5 @@
 Ce repository contient les documents et ressources liés au projet, incluant des documents de spécifications techniques et fonctionnelles, une maquette de l'application, ainsi que notre rapport.
-
+- **Lien vidéo explicative** : https://www.youtube.com/watch?v=N8Qi3eYR3qU
 ---
 
 ## 📑 Contenu du Repository
