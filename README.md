@@ -1,4 +1,4 @@
-Ce repository contient les documents et ressources liés au projet, incluant des documents de spécifications techniques et fonctionnelles, une maquette de l'application, ainsi qu'un rapport de suivi.
+Ce repository contient les documents et ressources liés au projet, incluant des documents de spécifications techniques et fonctionnelles, une maquette de l'application, ainsi que notre rapport.
 
 ---
 
