@@ -22,5 +22,6 @@ Ce repository contient les documents et ressources liés au projet, incluant des
 
 ### **4. Rapport Enedis**
 - **Nom du fichier** : `Rapport Enedis Okan MINUSKER Corentin SEU.pbix`
+- **Lien** : https://app.powerbi.com/groups/bd3df0a5-d26c-4b57-9749-a90e20f68cb9/reports/32b8d044-3bfa-4617-97fe-7a79fb146f13?ctid=a51a6642-5911-4306-a13c-f4731ab9c63f&pbi_source=linkShare
 - **Description** : 
   Un rapport de projet lié aux données et analyses effectuées pour Enedis.
